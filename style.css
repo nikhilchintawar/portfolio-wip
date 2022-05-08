@@ -1,0 +1,15 @@
+:root {
+  --main-bg-color: #121212;
+  --main-text-color: #fff
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--main-bg-color);
+  color: var(--main-text-color);
+}
